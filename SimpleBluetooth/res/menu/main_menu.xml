@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/phone_mac"
+        android:title="@string/phone_mac_address">
+    </item>
+    <item
+        android:id="@+id/imei"
+        android:title="@string/imei">
+    </item>
+    <item
+        android:id="@+id/pc_mac"
+        android:title="@string/pc_mac_address">
+    </item>
+    <item
+        android:id="@+id/controller"
+        android:title="@string/controller">
+    </item>
+
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BlueAuth</string>
+    <string name="phone_mac_address">See phone\'s MAC address</string>
+    <string name="pc_mac_address">Enter PC\'s MAC address</string>
+    <string name="mac_message">Enter your PC\'s MAC here</string>
+    <string name="imei">See phone\'s IMEI number</string>
+    <string name="controller">Control computer</string>
+    <string name="hugeText">This is the helper app written for the Phone Authenticator project by Ajitava Kundu, Anuj Duggal, Sireesha Kaluva, Rahul.A.R and Shayan.N.S . For options, click on Menu.</string>
+
+</resources>

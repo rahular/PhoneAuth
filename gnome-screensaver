@@ -1,0 +1,4 @@
+@include common-auth
+auth 	optional 	pam_gnome_keyring.so
+auth    required     	pam_exec.so	log=/home/rahul/log-listener.txt		/usr/local/bin/notify-listener.sh
+auth    required     	pam_exec.so	log=/home/rahul/log-daemon.txt			/usr/local/bin/notify-daemon.sh
